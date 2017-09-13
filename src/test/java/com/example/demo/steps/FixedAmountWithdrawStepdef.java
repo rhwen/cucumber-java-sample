@@ -1,6 +1,5 @@
 package com.example.demo.steps;
 
-import cucumber.api.PendingException;
 import cucumber.api.java.zh_cn.*;
 
 import static org.junit.Assert.assertEquals;
